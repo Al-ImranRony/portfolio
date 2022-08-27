@@ -13,7 +13,7 @@ const config = {
   social: {
     linkedin: 'imran-rony',
     twitter: 'Imran_R0ny',
-    facebook: 'Imran Rony',
+    facebook: 'imran.rony.3591',
     instagram: '',
     dribbble: '',
     behance: '',
