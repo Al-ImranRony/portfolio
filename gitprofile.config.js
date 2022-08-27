@@ -2,42 +2,42 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'Imran Rony', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
-      forks: false, // Forked projects will not be displayed if set to true.
+      forks: true, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    facebook: '',
+    linkedin: 'imran-rony',
+    twitter: 'Imran_R0ny',
+    facebook: 'Imran Rony',
     instagram: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    website: 'https://arifszn.github.io',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    medium: '',
+    dev: '',
+    website: 'https://sites.google.com/view/imranrony',
+    phone: '+880 1687 024647',
+    email: 'imranrony687@gmail.com',
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
+    'iOS',
+    'NFT-Blockchain',
+    'Python',
+    'Swift',
+    'Objective-c',
     'Git',
-    'Docker',
-    'PHPUnit',
+    'NoSQL',
+    'Git',
+    'C++',
+    'HTML',
     'CSS',
-    'Antd',
-    'Tailwind',
-    'Bootstrap',
+    'Django',
+    'Overleaf',
+    'IoT',
   ],
   experiences: [
     {
