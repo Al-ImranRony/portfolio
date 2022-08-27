@@ -3,8 +3,8 @@
 const config = {
   github: {
     username: 'Al-ImranRony', // Your GitHub org/user name. (Required)
-    sortBy: 'stars', // stars | updated
-    limit: 10, // How many projects to display.
+    sortBy: 'updated', // stars | updated
+    limit: 14, // How many projects to display.
     exclude: {
       forks: true, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
@@ -14,14 +14,14 @@ const config = {
     linkedin: 'imran-rony',
     twitter: 'Imran_R0ny',
     facebook: 'imran.rony.3591',
-    instagram: '',
+    twitter: 'Imran_R0ny',
     dribbble: '',
     behance: '',
     medium: '',
     dev: '',
     website: 'https://sites.google.com/view/imranrony',
     phone: '+880 1687 024647',
-    email: 'imranrony687@gmail.com',
+    email: 'imran.rony@sec.ac.bd',
   },
   skills: [
     'iOS',
@@ -47,8 +47,8 @@ const config = {
       to: 'Present',
     },
     {
-      company: 'My Offer 360 Degree',
-      position: 'Web Application Developer',
+      company: 'SEC Developers CLub',
+      position: 'Senior member, Trainer',
       from: 'July 2019',
       to: 'August 2021',
     },
