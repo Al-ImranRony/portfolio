@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'Imran Rony', // Your GitHub org/user name. (Required)
+    username: 'Al-ImranRony', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -41,9 +41,9 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Monstarlab Bangladesh',
-      position: 'Backend Engineer II',
-      from: 'September 2021',
+      company: 'Bitmorpher Ltd.',
+      position: 'Software Engineer',
+      from: 'June 2021',
       to: 'Present',
     },
     {
@@ -55,19 +55,19 @@ const config = {
   ],
   education: [
     {
-      institution: 'American International University-Bangladesh',
+      institution: 'Sylhet Engineering College-Bangladesh',
       degree: 'Bachelor of Science',
-      from: '2015',
-      to: '2019',
+      from: '2016',
+      to: '2021',
     },
     {
-      institution: 'Cantonment College, Jessore',
+      institution: 'Govt. BL College, Khulna',
       degree: 'Higher Secondary Certificate (HSC)',
       from: '2012',
       to: '2014',
     },
     {
-      institution: 'Chowgacha Shahadat Pilot High School',
+      institution: 'Rotary School, Khulna',
       degree: 'Secondary School Certificate (SSC)',
       from: '2007',
       to: '2012',
@@ -76,7 +76,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: '', // to hide blog section, keep it empty
     limit: 3, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
