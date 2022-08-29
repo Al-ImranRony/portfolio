@@ -36,8 +36,7 @@ const config = {
     'HTML',
     'CSS',
     'Django',
-    'Overleaf',
-    'IoT',
+    'IoT'
   ],
   experiences: [
     {
@@ -48,7 +47,7 @@ const config = {
     },
     {
       company: 'SEC Developers CLub',
-      position: 'Senior member, Trainer',
+      position: 'Senior member - executive',
       from: 'July 2019',
       to: 'August 2021',
     },
