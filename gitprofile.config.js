@@ -35,7 +35,7 @@ const config = {
     'HTML',
     'CSS',
     'Django',
-    'IoT'
+    'Firebase'
   ],
   experiences: [
     {
@@ -46,7 +46,7 @@ const config = {
     },
     {
       company: 'SEC Developers CLub',
-      position: 'Senior member - executive',
+      position: 'Founding member',
       from: 'July 2019',
       to: 'August 2021',
     },
