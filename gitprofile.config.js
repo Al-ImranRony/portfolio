@@ -44,12 +44,12 @@ const config = {
       from: 'June 2021',
       to: 'Present',
     },
-    {
-      company: 'SEC Developers CLub',
-      position: 'Founding member',
-      from: 'July 2019',
-      to: 'August 2021',
-    },
+//     {
+//       company: 'SEC Developers CLub',
+//       position: 'Founding member',
+//       from: 'July 2019',
+//       to: 'August 2021',
+//     },
   ],
   education: [
     {
